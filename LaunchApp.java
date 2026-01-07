@@ -1,4 +1,4 @@
-public class GitHub{
+public class LaunchApp{
 	public static void main(String[] args){
 		System.out.println("Exploring GitHub");
 	}
